@@ -9,18 +9,18 @@ location: [-34.659261,-58.649668]
 ---
 #todo 
 - [ ] Taller. Un mapa simple en QGis.(@[[2022-10-30]]08:00)
- Notas Relacionadas:[[ ]] | [[ ]]
  ___
 # QGis 
 ## Taller. Un mapa simple en QGis
 ---
 | [Página Web de Cartografía](www.marcosgustacocortina.com) |
+Esta página: https://marquein.github.io/Web_QGis/
 
 - Que instalen [QGis](https://qgis.org/es/site/) de antemano. Tener en cuenta que pesa 1 G y demanda una pc moderna.
 - Explicar que es QGis. Para que sirve.
 - Descripción general de los partes del entorno visual de QGis.
 - El lienzo. Proyecciones.
-- Mapa de fondo. Instalación de Plugin.
+- Mapa de fondo. Instalación de Plugin.[[plugins]]
 - Capas: puntos, líneas y polígonos. Tabla de atributos.
 - Tipos de archivos - extensiones-.
 - Producción de mapas.
