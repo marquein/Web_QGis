@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Clase taller un mapa simple en Qgis]
 tags: icaba sig
 author: Marcos Gustavo Cortina
 date: 2022-10-26 20:32
@@ -8,7 +8,7 @@ comments: Taller. Un mapa simple en QGis
 location: [-34.659261,-58.649668]
 ---
 #todo 
-- [ ] Taller. Un mapa simple en QGis.(@[[2022-10-30]]08:00)
+- [ ] Taller. Un mapa simple en QGis.(@[[2022-11-04]])
  ___
 # QGis 
 ## Taller. Un mapa simple en QGis
@@ -56,3 +56,15 @@ Esta página: https://marquein.github.io/Web_QGis/
 - Plug in QGis Cloud.
 	- El plugin en QGis.
 	- La Web.
+
+
+### Hablar con Gabriel
+- Explicarle GitHub. 
+	- Beneficios con respecto a Qgiscloud.
+		- Qgiscloud en el celular.
+		- App en QGis.
+	- Agregarlo como colaborador y crearle una rama.
+- Que trabaje tranquilo en su rama sin temor a joder el archivo principal. Cuando esté listo los unimos.
+- kml: [Blog que explica la estructura interna](https://developers.google.com/kml/documentation/kml_tut?hl=es)
+- Ya que le gusta que vea como es el contenido del kml.
+- 
