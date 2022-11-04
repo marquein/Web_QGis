@@ -44,15 +44,15 @@ Esta página: https://marquein.github.io/Web_QGis/
 - Generar un grupo de colaboración.
 ### Desafío:
 - Crear comunidad GitHub. Para el que solo quiera subir y bajar archivos. 
-		- ¿Qué es GitHub?
-		- La Web.
-		- GitHub Desktop.
-			- Repositorios.
-			- Ramas.
-			- Permisos sobre el repositorio. Admisitrador/editor/lector.
-			- Comit.
-			- push/pull
-			- fork
+	- ¿Qué es GitHub?
+	- La Web.
+	- GitHub Desktop.
+		- Repositorios.
+		- Ramas.
+		- Permisos sobre el repositorio. Admisitrador/editor/lector.
+		- Comit.
+		- push/pull
+		- fork
 - Plug in QGis Cloud.
 	- El plugin en QGis.
 	- La Web.
