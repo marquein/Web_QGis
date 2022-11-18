@@ -8,7 +8,7 @@ comments: Taller. Un mapa simple en QGis
 location: [-34.659261,-58.649668]
 ---
 #todo 
-- [ ] Taller. Un mapa simple en QGis.(@2022-11-18 11:31)
+- [ ] Taller. Un mapa simple en QGis.(@2022-11-18 12:31)
  ___
 # QGis 
 ## Taller. Un mapa simple en QGis
@@ -59,6 +59,7 @@ Dar un pantallazo de lo que se puede explicar en próximos encuentros.
 
 ___
 ## Nuestro Proyecto
+[GitHub OrientaciónCABA](https://github.com/OrientacionCABA)
 Contarle las posibilidades para que el que se entusiasme vaya por más.
 
 ### Inquietud:
