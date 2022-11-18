@@ -13,7 +13,7 @@ location: [-34.659261,-58.649668]
 # QGis 
 ## Taller. Un mapa simple en QGis
 ---
-| [Página Web de Cartografía](https://www.marcosgustacocortina.com) |
+| [Página Web de Cartografía](https://www.marcosgustavocortina.com) |
 Esta página: https://marquein.github.io/Web_QGis/
 
 ## Objetivos:
