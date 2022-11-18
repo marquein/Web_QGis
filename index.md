@@ -8,7 +8,7 @@ comments: Taller. Un mapa simple en QGis
 location: [-34.659261,-58.649668]
 ---
 #todo 
-- [ ] Taller. Un mapa simple en QGis.(@2022-11-18 12:31)
+- [ ] Taller. Un mapa simple en QGis.(@2022-11-22 19:00)
  ___
 # QGis 
 ## Taller. Un mapa simple en QGis
