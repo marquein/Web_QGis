@@ -13,8 +13,7 @@ location: [-34.659261,-58.649668]
 # QGis 
 ## Taller. Un mapa simple en QGis
 ---
-| [Página Web de Cartografía](https://www.marcosgustavocortina.com) |
-|[Wiki Caba_Colaborativo](https://github.com/OrientacionCABA/CABA_colaborativo/wiki)|
+| [Página Web de Cartografía](https://www.marcosgustavocortina.com) |   |[Wiki Caba_Colaborativo](https://github.com/OrientacionCABA/CABA_colaborativo/wiki)|
 
 ## Objetivos:
 1. Dar las herramientas "*superbásicas*" para que cualquier persona pueda hacer un mapa a la medida de sus necesidades con los elementos básicos. El producto es un .pdf georreferenciado.
