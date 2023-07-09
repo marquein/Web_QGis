@@ -1,14 +1,17 @@
 ---
-aliases: [Clase taller un mapa simple en Qgis]
+aliases:
+  - Clase taller un mapa simple en Qgis
 tags: icaba sig
 author: Marcos Gustavo Cortina
 date: 2022-10-26 20:32
-source: https://
+source: https://marquein.github.io/Web_QGis/
 comments: Taller. Un mapa simple en QGis
-location: [-34.659261,-58.649668]
+location:
+  - -34.659261
+  - -58.649668
 ---
 #todo 
-- [ ] Taller. Un mapa simple en QGis.(@2022-12-01 22:19)
+- [ ] Taller. Un mapa simple en QGis.(@[[2023-07-13]])
  ___
 # QGis 
 ## Taller. Un mapa simple en QGis
@@ -27,7 +30,7 @@ location: [-34.659261,-58.649668]
 - **El Espacio de Trabajo.** El lienzo. Proyecciones.
 - **Mapa de fondo.** Instalación de Plugin.[[plugins]]. *QuickMapService* [^material]
 - **Capas:** puntos, líneas y polígonos. Tabla de atributos.
-- **Tipos de archivos** - extensiones-. Vectoriales vs. raster.
+- **Tipos de archivos** - extensiones-. Vectoriales vs. raster. [10 Formatos GIS vectoriales más populares](https://mappinggis.com/2013/11/los-formatos-gis-vectoriales-mas-populares/)
 	- *kml*: [Blog que explica la estructura interna](https://developers.google.com/kml/documentation/kml_tut?hl=es) (ya que le gusta que vea como es el contenido del kml). Recordar como lo usábamos en Google earth. Los objetos son etiquetas.
 		- Combina geometrías con cartografía.
 		- XML
@@ -35,13 +38,13 @@ location: [-34.659261,-58.649668]
 		- Al usar etiquetas XML con información cartográfica, rápidamente se vuelve un archivo muy grande y poco ágil a usar.
 	- *shp*. Standard ESDRI. 
 		- Liviano, ágil. 
-		- Indexa bien.
+		- Indexa bien. shx. Un archivo sólo para indexar.
 		- Incómodo por ser varios archivos. 
 		- Nombre de los atributos limitado a 10 caracteres.
 		- Menor cantidad de tipos de campos y extensión en caracteres.
 		- Archivo hasta 2gb.
-		- Hasta 255 atributos.
-		- Una sola geometría por archivo.
+		- Hasta 255 atributos. dbf. este archivo lo abre el excel.
+		- Una sola geometría por archivo. shp las geometrías.
 	- *geojson*.
 		- Archivo leíble por las personas.
 		- Sólo utiliza wgs84 - no contiene coordenadas  proyectadas-. Qgis lo transforma destrás nuestro.
@@ -54,7 +57,8 @@ location: [-34.659261,-58.649668]
 		- Podes ejecutar consultas o editar localmente.
 		- Contra, es un archivo binario, se debe tener un sistema intermediario para editarlo, no como geojson.
 		- Hasta 140TB.
-	- *raster*: tiff
+	- *raster*: tiff Es un continuo. Ütil para datos en un terreno continuo.
+	- ![[Pasted image 20230224122256.png]]
 - **Digitalización**
 	- Digitalizar en Google Earth.[Taller google earth](https://youtu.be/uDsMmh5gXF4?t=1994)
 	- Importar el kml y exportarlo a un formato más apto para Qgis.
